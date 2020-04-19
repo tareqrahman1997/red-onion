@@ -1,0 +1,11 @@
+.container{
+    width: 15%;
+    float: left;
+}
+.product{
+    float: left;
+    margin: 10px;
+    overflow: hidden;
+
+
+}
